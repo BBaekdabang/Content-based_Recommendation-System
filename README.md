@@ -75,3 +75,4 @@
  ### 가. Reference
  - Doc2Vec : https://dailyheumsi.tistory.com/165
  - Similarity : https://github.com/SeongBeomLEE/Tobigs_Recommendation_System_Seminar/blob/main/Week2_Recommendation_Seminar_Code.ipynb
+ - SentenceBERT : https://github.com/BM-K/KoSentenceBERT-ETRI
