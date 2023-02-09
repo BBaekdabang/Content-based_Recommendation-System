@@ -5,7 +5,7 @@
 ---
 
 ### 가. Kinds of Similarity
-<img width="210" img height="280" src="https://user-images.githubusercontent.com/113493692/217757684-7f36c286-3cbd-481b-bd19-89cdc5856c4a.png"><img width="210" img height="280" src="https://user-images.githubusercontent.com/113493692/217757951-c84cfb93-8d88-49c6-bec9-f754c5037db6.png"><img width="330" img height="280" src="https://user-images.githubusercontent.com/113493692/217758177-56c7c231-4650-42be-8644-209c4eba7720.png"><img width="250" img height="280" src="https://user-images.githubusercontent.com/113493692/217758309-3fc03e4e-1f36-4720-8f41-ca62d71e3ed7.png">
+<img width="190" img height="280" src="https://user-images.githubusercontent.com/113493692/217757684-7f36c286-3cbd-481b-bd19-89cdc5856c4a.png"><img width="190" img height="280" src="https://user-images.githubusercontent.com/113493692/217757951-c84cfb93-8d88-49c6-bec9-f754c5037db6.png"><img width="310" img height="280" src="https://user-images.githubusercontent.com/113493692/217758177-56c7c231-4650-42be-8644-209c4eba7720.png"><img width="230" img height="280" src="https://user-images.githubusercontent.com/113493692/217758309-3fc03e4e-1f36-4720-8f41-ca62d71e3ed7.png">
 
 
  - Cosine Similarity
@@ -62,7 +62,7 @@
  - One-hot Encoding (Keyword Base)
  <img width="500" img height="400" src="https://user-images.githubusercontent.com/113493692/217763347-46af142f-a0a5-4371-8b57-899cd4b68a95.png">
 
- <img width="500" img height="380" src="https://user-images.githubusercontent.com/113493692/217762859-25c9ee39-1978-435e-8981-c8b951db3893.png"><img width="500" img height="380" src="https://user-images.githubusercontent.com/113493692/217762959-94fccdd1-f7ab-4776-8cad-67e81ef46831.png">
+ <img width="450" img height="380" src="https://user-images.githubusercontent.com/113493692/217762859-25c9ee39-1978-435e-8981-c8b951db3893.png"><img width="450" img height="380" src="https://user-images.githubusercontent.com/113493692/217762959-94fccdd1-f7ab-4776-8cad-67e81ef46831.png">
 
  - Tf-Idf (Overview Base)
  <img width="600" img height="480" src="https://user-images.githubusercontent.com/113493692/217764321-38a187bd-106e-4493-8417-a9ada6c45697.png">
