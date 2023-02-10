@@ -72,7 +72,7 @@
 
  - SentenceBERT
  <img width="800" img height="200" src="https://user-images.githubusercontent.com/113493692/217783633-abc476fe-063a-4e2a-bd59-dfa899655e4e.png">
- <img width="800" img height="280" src="">
+ <img width="800" img height="280" src="https://user-images.githubusercontent.com/113493692/218013994-21cdeb14-ba4a-44bd-b72b-955a40c5feca.png">
  
  ---
  
