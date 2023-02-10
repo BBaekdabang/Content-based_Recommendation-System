@@ -68,7 +68,7 @@
  <img width="600" img height="480" src="https://user-images.githubusercontent.com/113493692/217764321-38a187bd-106e-4493-8417-a9ada6c45697.png">
  
  - Doc2Vec (Overview Base)
- <img width="800" img height="280" src="https://user-images.githubusercontent.com/113493692/217764112-c30789b8-15e7-439f-be47-77759134697a.png">
+ <img width="800" img height="280" src="https://user-images.githubusercontent.com/113493692/218031285-9dba09f8-968f-4b18-ac4e-7b920a2ae44b.png">
 
  - SentenceBERT
  <img width="800" img height="200" src="https://user-images.githubusercontent.com/113493692/217783633-abc476fe-063a-4e2a-bd59-dfa899655e4e.png">
