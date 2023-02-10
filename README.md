@@ -69,6 +69,10 @@
  
  - Doc2Vec (Overview Base)
  <img width="800" img height="280" src="https://user-images.githubusercontent.com/113493692/217764112-c30789b8-15e7-439f-be47-77759134697a.png">
+
+ - SentenceBERT
+ <img width="800" img height="200" src="https://user-images.githubusercontent.com/113493692/217783633-abc476fe-063a-4e2a-bd59-dfa899655e4e.png">
+ <img width="800" img height="280" src="">
  
  ---
  
